@@ -53,8 +53,8 @@ For detailed instructions on deploying HTML, CSS, and JavaScript websites on Ver
 Feel free to reach out to me for any inquiries or feedback:
 
 - **Email**: helmi@uoguelph.ca
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/hamza-elmi-b9827a231)
-- **GitHub**: [Your GitHub Profile](https://github.com/hamzaelmi068)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/hamza-elmi-b9827a231)
+- **GitHub**: [GitHub Profile](https://github.com/hamzaelmi068)
 
 
 ## Deploy on Vercel
